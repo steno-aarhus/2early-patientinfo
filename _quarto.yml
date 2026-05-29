@@ -1,0 +1,33 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "2early - Patientinformation"
+  site-url: "https://steno-aarhus.github.io/2early-patientinfo/"
+  repo-url: "https://github.com/steno-aarhus/2early-patientinfo"
+  
+  # TODO: Remove announcement when website is ready
+  announcement: 
+    icon: info-circle
+    content: "This website is a work in progress and might contain incomplete or placeholder content."
+    type: light
+  
+  navbar:
+    logo: ""
+    logo-alt: ""
+    pinned: true
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/2early-patientinfo"
+        aria-label: "GitHub icon: Source repository"
+
+format:
+  sdca-theme-html:
+    theme:
+      - brand
+      - custom-styles.scss
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true
