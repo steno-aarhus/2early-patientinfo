@@ -13,7 +13,7 @@ website:
     type: light
   
   navbar:
-    left: 
+    right: 
     - tekst: "Formål"
     - href: 1-formål.qmd
     - text: "Undersøgelsen"
