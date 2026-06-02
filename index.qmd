@@ -1,14 +1,11 @@
 ---
 title-block-banner: true
-title: "Template landing page"
-subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
+title: "2EARLY - patientinformation"
+subtitle: "En side med information til dig der skal deltagelse i helbredsundersøgelsen"
 ---
 
-All text below this is meant as examples of elements you can add to your
-website. You should delete this text and replace it with your own text,
-images, etc.
 
-## Image example
+## Her kan jeg skrive noget 
 
 ![Example image
 text](/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
@@ -33,7 +30,7 @@ Notice that the "code" to add the image above has three elements:
     alt text should be a short description of the image.
 -->
 
-## Button example
+## Kontakt projektmedarbejdere 
 
 ::: text-center
 [A button linking to a page](https://add/your/link/here.com){.btn
