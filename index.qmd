@@ -84,7 +84,8 @@ A [callout block](https://quarto.org/docs/authoring/callouts.html):
 
 ::: callout
 ### Header within callout block
-
 Some text inside a callout block. You can add any text you want here,
 and it will be shown in a box.
 :::
+
+![](/images/midtlogo.png){fig-alt="regionmidt logo"}
