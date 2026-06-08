@@ -1,7 +1,4 @@
 ---
-::: {.content-hidden}
-title: Formålet med undersøgelsen 
-:::
 toc: false 
 ---
 
