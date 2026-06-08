@@ -15,15 +15,15 @@ website:
   navbar:
     right: 
     - text: "Formål"
-    - href: 1-formål.qmd
+      href: 1-formål.qmd
     - text: "Undersøgelsen"
-    - href: 2-undersøgelsen.qmd
+      href: 2-undersøgelsen.qmd
     - text: "Deltagelse"
-    - href: 3-deltagelse.qmd
+      href: 3-deltagelse.qmd
     - text: "Kontakt"
-    - href: 4-kontakt.qmd 
+      href: 4-kontakt.qmd 
     - text: "For fagfolk"
-    - href: 5-for fagfolk.qmd
+      href: 5-for fagfolk.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/2early-patientinfo"
