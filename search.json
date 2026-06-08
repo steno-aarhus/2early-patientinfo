@@ -67,14 +67,14 @@
     "href": "1-formål.html",
     "title": "**2EARLY - Patientinformation**",
     "section": "",
-    "text": "kom med tekst forslag"
+    "text": "toc: false"
   },
   {
     "objectID": "1-formål.html#formålet-med-undersøgelsen",
     "href": "1-formål.html#formålet-med-undersøgelsen",
     "title": "**2EARLY - Patientinformation**",
-    "section": "",
-    "text": "kom med tekst forslag"
+    "section": "Formålet med undersøgelsen",
+    "text": "Formålet med undersøgelsen\nkom med tekst forslag"
   },
   {
     "objectID": "1-formål.html#undersøgelsen-er-en-del-af-projekt-2early",
