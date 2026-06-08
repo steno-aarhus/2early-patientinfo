@@ -23,7 +23,7 @@ website:
     - text: "Kontakt"
       href: 4-kontakt.qmd 
     - text: "For fagfolk"
-      href: 5-for fagfolk.qmd
+      href: 5-forfagfolk.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/2early-patientinfo"
