@@ -7,28 +7,6 @@ subtitle: "En side med information til dig der skal deltagelse i helbredsunders√
 
 ## Her kan jeg skrive noget 
 
-![Example image
-text](/images/banner.png){fig-alt="Abstract line art forming a continuous, looping wave pattern in red on a white background."}
-
-<!--
-Text inside blocks like this is not shown on the website. It is only for
-you to read.
-
-Notice that the "code" to add the image above has three elements:
-
-1.  The part in the `[]`: This is the text that will be shown below the
-    image. It is not necessary to add this text, but it can be good idea
-    to add a short description of the image.
-
-2.  The part in the `()`: This is the file path to the image. It is
-    necessary to add this text, and it should be the path to the image
-    you want to add.
-
-3.  The part in the `{}`: The `fig-alt=""` part is the alternative text
-    for the image. It's used by screen readers to describe the image to
-    visually impaired users, so it is important for accessibility. The
-    alt text should be a short description of the image.
--->
 
 ## Kontakt projektmedarbejdere 
 
