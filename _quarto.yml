@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "2early - Patientinformation"
+  title: "**2EARLY - Patientinformation**"
   site-url: "https://steno-aarhus.github.io/2early-patientinfo/"
   repo-url: "https://github.com/steno-aarhus/2early-patientinfo"
   
