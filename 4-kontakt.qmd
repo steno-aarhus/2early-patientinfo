@@ -1,5 +1,6 @@
 ---
 title: "Kontakt"
+toc: false
 ---
 
 Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.
