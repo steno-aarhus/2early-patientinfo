@@ -1,1 +1,24 @@
+---
+title: "Kontakt"
+subtitle: "Kontaktoplysninger"
+---
+
+Har du spørgsmål til projektet, er du altid velkommen til at tage kontakt.
+
+
+**Projektansvarlig** 
+
+Har du spørgsmål til projektet eller undersøgelsen kan du kontakte projektansvarlig:
+
+*Julie Støy, Overlæge* 
+
+Steno Diabetes Center Aarhus
+
+📧 julistoe@rm.dk
+
+☎️ skal der være et nummer? 
+
+::: text-center
+![Julie Støy](/images/julie_stoy_2.webp){fig-alt="Image of Julie Støy" .profile-picture}
+:::
 
