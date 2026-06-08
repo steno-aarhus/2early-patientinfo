@@ -14,7 +14,7 @@ website:
   
   navbar:
     right: 
-    - tekst: "Formål"
+    - text: "Formål"
     - href: 1-formål.qmd
     - text: "Undersøgelsen"
     - href: 2-undersøgelsen.qmd
