@@ -4,18 +4,23 @@ toc: false
 
 ## For fagfolk 
 
+
 ::: text-center
-**Vil du gerne læse mere om projektet og de forskellgie arbejdspakker, så læs mere her:**
+**Vil du gerne læse mere om projektet og de forskellige arbejdspakker, så læs mere her:**
 :::
+
 
 ::: text-center
 [Projekt 2EARLY](https://steno-aarhus.github.io/2early/){.btn
 .btn-primary role="button"}
 :::
 
+
+
 ::: text-center
 **Vil du gerne læse mere om Steno Diabetes Center Aarhus, så læs mere her:**
 :::
+
 
 ::: text-center
 [Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/){.btn
