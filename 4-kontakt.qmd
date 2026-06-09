@@ -1,8 +1,8 @@
 ---
-title: "Kontakt"
 toc: false
 ---
 
+## Kontakt 
 Har du spørgsmål til projektet eller undersøgelsen kan du kontakte projektansvarlig:
 
 **Julie Støy**
