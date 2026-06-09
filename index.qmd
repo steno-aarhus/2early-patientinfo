@@ -1,8 +1,8 @@
 ---
 title-block-banner: true
 toc: false
-title: "2EARLY - patientinformation"
-subtitle: "En side med information til dig der skal deltagelse i helbredsundersøgelsen"
+title: "2EARLY - Patientinformation"
+subtitle: "En hjemmeside med information til dig, der skal deltagelse i helbredsundersøgelsen"
 ---
 
 
