@@ -6,13 +6,14 @@ subtitle: "En side med information til dig der skal deltagelse i helbredsunders�
 ---
 
 
-## Her kan jeg skrive noget 
+## Overskrift?? 
+Skal vi indsætte et bilelde eller noget kort tekst? 
 
 
 ## Kontakt projektmedarbejder 
 
 ::: text-center
-![Julie Støy](/images/julie_stoy2.webp){fig-alt="Image of Julie Støy" .profile-picture}
+![Julie Støy](/images/julie_stoy_2.webp){fig-alt="Image of Julie Støy" .profile-picture}
 :::
 
 
