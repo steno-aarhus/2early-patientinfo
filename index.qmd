@@ -10,11 +10,6 @@ subtitle: "En hjemmeside med information til dig, der skal deltagelse i helbreds
 Skal vi indsætte et bilelde eller noget kort tekst? 
 
 
-## Kontakt projektmedarbejder 
-
-::: text-center
-![Julie Støy](/images/julie_stoy_2.webp){fig-alt="Image of Julie Støy" .profile-picture}
-:::
 
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
