@@ -3,8 +3,15 @@ toc: false
 ---
 
 ## For fagfolk 
-Vil du gerne læse mere om projektet så læs mere her: 
-indsæt link til github 
 
-Vil du gerne læse mere om *Steno Diabetes Center Aarhus*, så læs mere her: 
-indsæt link til steno 
+**Vil du gerne læse mere om projektet så læs mere her:**
+::: text-center
+[Projekt 2EARLY](https://steno-aarhus.github.io/2early/){.btn
+.btn-primary role="button"}
+:::
+
+**Vil du gerne læse mere om Steno Diabetes Center Aarhus, så læs mere her:**
+::: text-center
+[Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/){.btn
+.btn-primary role="button"}
+:::
