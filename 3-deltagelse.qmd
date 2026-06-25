@@ -14,3 +14,5 @@ Indsæt tekst
 ## Mulighed for fri med løn 
 Indsæt tekst
 
+## Data 
+De data du leverer til projektet opbevares og behandles fortroligt i overensstemmelse med gældende lovgivning om databeskyttelse og sundhedsforskning.
