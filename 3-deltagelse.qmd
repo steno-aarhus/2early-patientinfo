@@ -3,7 +3,10 @@ toc: false
 ---
 
 ## Hvem kan deltage? 
-Indsæt tekst
+Du kan deltage hvis du;
+- har type 2-diabetes
+- har fået diagnosen inden for de seneste 6 år 
+- er mellem 18 og 46 år
 
 ## Hvordan kan jeg tilmeldes? 
 Indsæt tekst
