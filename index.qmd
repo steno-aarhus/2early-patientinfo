@@ -2,12 +2,12 @@
 title-block-banner: true
 toc: false
 title: "2EARLY - Patientinformation"
-subtitle: "En hjemmeside med information til dig, der skal deltagelse i helbredsundersøgelsen"
+subtitle: "En hjemmeside med information til dig, der skal deltage i forskningsprojektet"
 ---
 
 
 ## Overskrift?? 
-Skal vi indsætte et bilelde eller noget kort tekst? 
+Forskningsprojektet er en undersøgelse af genetik, inflammation og tandsundhed hos yngre voksne med type 2-diabetes.  
 
 
 
