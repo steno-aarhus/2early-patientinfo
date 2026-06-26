@@ -15,31 +15,31 @@ toc: false
 
 Du vil få lavet følgende undersøgelser på forsøgsdagen: 
 
-Målinger
-•	Højde, vægt og taljemål
-•	Blodtryk og puls
-•	Håndstyrke
+**Målinger**
+* Højde, vægt og taljemål
+* Blodtryk og puls
+* Håndstyrke
 
-Prøver 
-•	Blodprøve (fx blodsukker, kolesterol, evt  gentest mm)
-•	Urinprøve
-•	Afføringsprøve
-•	Spytprøve
+**Prøver** 
+* Blodprøve (fx blodsukker, kolesterol, evt  gentest mm)
+* Urinprøve
+* Afføringsprøve
+* Spytprøve
 
-Scanning og undersøgelse
-•	Ultralyd af leveren for at undersøge fedtindholdet og tegn på skrumpelever
-•	Tandundersøgelse (som et tjek hos tandlægen men uden behandling)
+**Scanning og undersøgelse**
+* Ultralyd af leveren for at undersøge fedtindholdet og tegn på skrumpelever
+*Tandundersøgelse (som et tjek hos tandlægen men uden behandling)
 
-Spørgeskemaer (kan også udfyldes hjemmefra) 
+**Spørgeskemaer** (kan også udfyldes hjemmefra) 
 •	Om dit helbred
 •	Om dit mentale velvære
 •	Om hvordan diabetes påvirker dit liv
 
 ## Hvad sker der efter forsøgsdagen
-Du vil blive kontaktet af en læge fra Steno Diabetes Center AArhus, som vil forklare resultaterne fra forsøgsdagen og evt. anbefalinger. 
+Du vil blive kontaktet af en læge fra Steno Diabetes Center Aarhus, som vil forklare resultaterne fra forsøgsdagen og evt. give anbefalinger. 
 
 Steno Diabetes Center sender også et brev med resultaterne fra forsøgsdagen til 
-- din egen læge eller diabeteslæge 
-- tandlæge hvis du ønsker det 
+* din egen læge eller diabeteslæge 
+* tandlæge hvis du ønsker det 
 
-Efter forsøget er det fortsat din egen læge/diabeteslæge og tandlæge der for din diabetes behandlin. 
+Efter forsøget er det fortsat din egen læge/diabeteslæge og tandlæge der for din diabetes behandling. 
