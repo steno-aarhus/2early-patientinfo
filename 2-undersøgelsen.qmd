@@ -3,9 +3,9 @@ toc: false
 ---
 
 ## Hvad får jeg ud af at deltage 
-•	Du får en grundig undersøgelse af din diabetes og sundhed
-•	Resultaterne deles med din læge
-•	Du hjælper med vigtig forskning, der kan være med til at forbedre behandling og forebygge komplikationer hos yngre voksne med type 2-diabetes
+* Du får en grundig undersøgelse af din diabetes og sundhed
+* Resultaterne deles med din læge
+* Du hjælper med vigtig forskning, der kan være med til at forbedre behandling og forebygge komplikationer hos yngre voksne med type 2-diabetes
 
 
 ## Hvad skal jeg gøre før forsøgsdagen
