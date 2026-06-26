@@ -8,7 +8,7 @@ Du kan deltage hvis du;
 - har fået diagnosen inden for de seneste 6 år 
 - er mellem 18 og 46 år
 
-## Hvem kan ikke deltage?
+## Hvem kan ikke deltage? 
 Du kan ikke deltage hvis:
 - Du forstår ikke dansk eller engelsk
 - Du er gravid/ammende eller har en anden type diabetes end type 2
