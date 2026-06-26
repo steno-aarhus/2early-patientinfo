@@ -45,6 +45,7 @@ Du vil få lavet følgende undersøgelser på forsøgsdagen:
 Du vil blive kontaktet af en læge fra Steno Diabetes Center Aarhus, som vil forklare resultaterne fra forsøgsdagen og evt. give anbefalinger. 
 
 Steno Diabetes Center sender også et brev med resultaterne fra forsøgsdagen til
+
 * din egen læge eller diabeteslæge 
 * tandlæge hvis du ønsker det 
 
