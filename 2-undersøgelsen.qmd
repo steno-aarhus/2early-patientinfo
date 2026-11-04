@@ -28,42 +28,39 @@ undgå større fysisk aktivitet umiddelbart før undersøgelserne
 
 ## Hvordan forløber forsøgsdagen
 
-Undersøgelsen vil vare 3,5 time (uden forsinkelser) 
-
-Du vil få lavet følgende undersøgelser på forsøgsdagen: 
-
 <details>
+<summary>**Mødested**</summary>
+Undersøgelserne foregår ved Steno Diabetes Center Aarhus, Aarhus 
+Universitetshospital, Palle Juul-Jensen Boulevard 11, indgang A, plan 2 (A204). 
 
-<summary>**Målinger**</summary>
-* Højde, vægt og taljemål
-* Blodtryk og puls
-* Håndstyrke
+Ved ankomsten bedes du scanne dit sundhedskort ved ankomststanderen og tage 
+plads i venteareal 2.
 </details>
 
 <details>
 
-<summary>**Prøver**</summary>
+<summary>**Hvilke undersøgelser skal jeg have lavet**</summary>
 
+Undersøgelsen vil vare 3,5 time (uden forsinkelser) 
+
+Du vil få lavet følgende undersøgelser på forsøgsdagen: 
+
+Målinger 
+* Højde, vægt og taljemål
+* Blodtryk og puls
+* Håndstyrke
+
+Prøver 
 * Blodprøve 
 * Urinprøve
 * Afføringsprøve (ikke på undersøgelsesdagen)
 * Spytprøve
 
-</details>
-
-<details>
-
-<summary>**Scanninger og undersøgelser**</summary>
-
+Scanninger og undersøgelser
 * Ultralyd af leveren 
 * Tandundersøgelse 
 
-</details>
-
-<details>
-
-<summary>**Spørgeskemaer**</summary>
-
+Spørgeskemaer
 * Om dit helbred
 * Om dit mentale velvære
 * Om hvordan diabetes påvirker dit liv 
