@@ -69,6 +69,12 @@ Skemaerne kan også udfyldes hjemmefra
 
 </details>
 
+<details>
+
+<summary>**Mad og drikke**</summary>
+Undersøgelsesdagen slutter med et måltid, noget at drikke og en kop kaffe/the
+</details>
+
 ## Hvad sker der efter forsøgsdagen
 Du vil blive kontaktet af en læge fra Steno Diabetes Center Aarhus, som vil forklare resultaterne fra forsøgsdagen og evt. give anbefalinger. 
 
