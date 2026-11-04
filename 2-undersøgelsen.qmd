@@ -17,10 +17,13 @@ toc: false
 ## Hvad skal jeg gøre før forsøgsdagen
 
 For at sikre, at resultaterne af undersøgelserne bliver så pålidelige som muligt, beder vi dig om:
-* Ikke at spise eller drikke andet end vand i mindst 8 timer før dit besøg 
-(heller ikke kaffe).
+
+* Ikke at spise eller drikke andet end vand i mindst 8 timer før dit besøg (heller ikke kaffe).
+
 * At undgå hård fysisk aktivitet i 48 timer før besøget.
+
 * At undgå rygning samt indtag af væske i mindst 2 timer før besøget
+
 * At undgå at tømme blæren mindst 2 timer før ankomst
 
 Vi anbefaler, at du kommer til hospitalet med bil eller offentlig transport for at 
@@ -46,21 +49,25 @@ Undersøgelsen vil vare 3,5 time (uden forsinkelser)
 Du vil få lavet følgende undersøgelser på forsøgsdagen: 
 
 Målinger 
+
 * Højde, vægt og taljemål
 * Blodtryk og puls
 * Håndstyrke
 
 Prøver 
+
 * Blodprøve 
 * Urinprøve
 * Afføringsprøve (ikke på undersøgelsesdagen)
 * Spytprøve
 
 Scanninger og undersøgelser
+
 * Ultralyd af leveren 
 * Tandundersøgelse 
 
 Spørgeskemaer
+
 * Om dit helbred
 * Om dit mentale velvære
 * Om hvordan diabetes påvirker dit liv 
