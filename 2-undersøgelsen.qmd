@@ -74,6 +74,8 @@ Spørgeskemaer
 
 Skemaerne kan også udfyldes hjemmefra
 
+**De data du leverer til projektet opbevares og behandles fortroligt i overensstemmelse med gældende lovgivning om databeskyttelse og sundhedsforskning.**
+
 </details>
 
 <details>
