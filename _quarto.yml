@@ -20,10 +20,12 @@ website:
       href: 2-undersøgelsen.qmd
     - text: "Deltagelse"
       href: 3-deltagelse.qmd
+    - text: "Tilmeld"
+      href: 4-tilmeld.qmd
     - text: "Kontakt"
-      href: 4-kontakt.qmd 
+      href: 5-kontakt.qmd 
     - text: "For fagfolk"
-      href: 5-forfagfolk.qmd
+      href: 6-forfagfolk.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/2early-patientinfo"
