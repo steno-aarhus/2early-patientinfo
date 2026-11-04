@@ -6,11 +6,11 @@ toc: false
 Du kan deltage hvis du:
 * har type 2-diabetes
 * har fået diagnosen inden for de seneste 6 år 
-* er mellem 18 og 46 år
+* hvis du var yngre end 40 år, da d ufik din type 2-diabtees diagnose 
 
 ## Hvem kan ikke deltage? 
 Du kan ikke deltage hvis du:
-* forstår ikke dansk eller engelsk
+* ikke forstår dansk eller engelsk
 * er gravid/ammende eller har en anden type diabetes end type 2
 * har udfordringer, der gør, at du ikke kan fremmøde på hospitalet
 * har haft diabetes i længere tid end 6 år.
@@ -19,8 +19,8 @@ Du kan ikke deltage hvis du:
 ## Hvordan kan jeg tilmeldes? 
 Indsæt tekst
 
-## Mulighed for fri med løn 
-Indsæt tekst
+## Transport og parkering
+Du kan få dækket dine udgifter til transport og parkerin
 
 ## Data 
 De data du leverer til projektet opbevares og behandles fortroligt i overensstemmelse med gældende lovgivning om databeskyttelse og sundhedsforskning.
