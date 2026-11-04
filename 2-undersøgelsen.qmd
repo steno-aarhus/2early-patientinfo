@@ -18,29 +18,44 @@ Undersøgelsen vil vare 3,5 time (uden forsinkelser)
 
 Du vil få lavet følgende undersøgelser på forsøgsdagen: 
 
-**Målinger**
+<details>
 
+<summary>**Målinger**</summary>
 * Højde, vægt og taljemål
 * Blodtryk og puls
 * Håndstyrke
+</details>
 
-**Prøver** 
+<details>
+
+<summary>**Prøver**</summary>
 
 * Blodprøve 
 * Urinprøve
 * Afføringsprøve (ikke på undersøgelsesdagen)
 * Spytprøve
 
-**Scanning og undersøgelse**
+</details>
+
+<details>
+
+<summary>**Scanninger og undersøgelser**</summary>
 
 * Ultralyd af leveren 
 * Tandundersøgelse 
 
-**Spørgeskemaer** (kan også udfyldes hjemmefra) 
+</details>
+
+<details>
+
+<summary>**Spørgeskemaer**</summary>
 
 * Om dit helbred
 * Om dit mentale velvære
-* Om hvordan diabetes påvirker dit liv
+* Om hvordan diabetes påvirker dit liv 
+Skemaerne kan også udfyldes hjemmefra
+
+</details>
 
 ## Hvad sker der efter forsøgsdagen
 Du vil blive kontaktet af en læge fra Steno Diabetes Center Aarhus, som vil forklare resultaterne fra forsøgsdagen og evt. give anbefalinger. 
@@ -50,4 +65,4 @@ Hvis du ønsker det, så sender Steno Diabetes Center Aarhus et brev med resulta
 * din egen læge eller diabeteslæge 
 * din tandlæge 
 
-Efter forsøget er det fortsat din egen læge/diabeteslæge der står for din diabetesbehandling. 
+Efter undersøgelserne er det fortsat din egen læge/diabeteslæge der står for din diabetesbehandling. 
