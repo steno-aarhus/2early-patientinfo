@@ -76,11 +76,37 @@ Undersøgelsesdagen slutter med et måltid, noget at drikke og en kop kaffe/the
 </details>
 
 ## Hvad sker der efter forsøgsdagen
-Du vil blive kontaktet af en læge fra Steno Diabetes Center Aarhus, som vil forklare resultaterne fra forsøgsdagen og evt. give anbefalinger. 
 
-Hvis du ønsker det, så sender Steno Diabetes Center Aarhus et brev med resultaterne fra forsøgsdagen til:
+<details>
 
-* din egen læge eller diabeteslæge 
-* din tandlæge 
+<summary>**Glukosemåler**</summary>
+Ved undersøgelsesdagens afslutning får du påsat en blændet glukosemåler på din overarm. 
+
+I de 15 dage, hvor du bærer glukosemåleren, beder vi dig om at leve som du plejer. Det hjælper os med at få et retvisende billede af dit blodsukker i 
+hverdagen.
+
+Du skal returnere den i posten efter 15 dage. 
+</details>
+
+<details>
+
+<summary>**Afføringsprøve**</summary>
+Du medgives et kit til opsamling og forsendelse af en afføringsprøve og hvis du giver samtykke til at  lave en afføringsprøve til vores biobank, vil denne blive afhentet og opbevaret på 
+køl. 
+</details>
+
+<details>
+
+<summary>**Journal**</summary>
+Forskere vil lave opslag i din sundhedsjournal for at se prøvesvar, indlæggelser eller andet relevant. Vi vil indhente status fra din øjenlæge og fodterapeu
+</details>
+
+
+## Hvad sker der med resultaterne fra forsøgsdagen
+Du får svar på resultatet af dine undersøgelser fra en af projektets læger via brev. 
+
+Vi giver eventuelle anbefalinger om din behandling til dig og din vanlige diabeteslæge/praktiserende læge. 
+
+Vi kan sende svar til din tandlæge, hvis du  ønsker det. 
 
 Efter undersøgelserne er det fortsat din egen læge/diabeteslæge der står for din diabetesbehandling. 
