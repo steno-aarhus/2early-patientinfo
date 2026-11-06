@@ -107,5 +107,5 @@ Forskere vil lave opslag i din sundhedsjournal for at se prøvesvar, indlæggels
 
 
 ## Hvordan kan jeg tilmeldes? 
-Ønsker du at tilmelde dig eller har du spørgsmpål til projektet, så klik på *Kontakt* 
-*(her er det meningen man kan klikke på ordet kontakt og så komme hen på kontaktsiden)*
+Ønsker du at tilmelde dig eller har du spørgsmpål til projektet, så henvises til vores [kontaktside](kontakt.qmd).
+
