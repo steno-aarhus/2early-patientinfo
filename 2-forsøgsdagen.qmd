@@ -107,3 +107,8 @@ Vi giver eventuelle anbefalinger om din behandling til dig og din vanlige diabet
 Vi kan sende svar til din tandlæge, hvis du  ønsker det. 
 
 Efter undersøgelserne er det fortsat din egen læge/diabeteslæge der står for din diabetesbehandling. 
+
+
+## Hvordan kan jeg tilmeldes? 
+Ønsker du at tilmelde dig eller har du spørgsmpål til projektet, så klik på *Kontakt* 
+*(her er det meningen man kan klikke på ordet kontakt og så komme hen på kontaktsiden)*
