@@ -35,6 +35,5 @@ Du kan ikke deltage, hvis du:
 Du kan få dækket dine udgifter til transport og parkering
 
 ## Hvordan kan jeg tilmeldes? 
-Ønsker du at tilmelde dig eller har du spørgsmpål til projektet, så klik på *Kontakt* 
-*(her er det meningen man kan klikke på ordet kontakt og så komme hen på kontaktsiden)*
+Ønsker du at tilmelde dig eller har du spørgsmpål til projektet, så henvises til vores [kontaktside](4-kontakt.qmd).
 
