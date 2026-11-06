@@ -8,4 +8,3 @@ subtitle: "En hjemmeside med information til dig, der skal deltage i forskningsp
 ![](/images/flyer1.png){fig-alt="flyer"}
 
 
-![](/images/midtlogo.png){fig-alt="regionmidt logo"}
