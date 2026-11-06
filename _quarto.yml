@@ -16,8 +16,8 @@ website:
     right: 
     - text: "Formål"
       href: 1-formål.qmd
-    - text: "Undersøgelsen"
-      href: 2-undersøgelsen.qmd
+    - text: "Forsøgsdagen"
+      href: 2-forsøgsdagen.qmd
     - text: "Deltagelse"
       href: 3-deltagelse.qmd
     - text: "Kontakt"
