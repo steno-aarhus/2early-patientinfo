@@ -9,7 +9,7 @@ subtitle: "En hjemmeside med information til dig, der skal deltage i forskningsp
 ## Overskrift?? 
 Forskningsprojektet er en undersøgelse af genetik, inflammation og tandsundhed hos yngre voksne med type 2-diabetes.  
 
-
+![](/images/flyer){fig-alt="flyer"}
 
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
