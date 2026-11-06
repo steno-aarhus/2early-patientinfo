@@ -5,19 +5,15 @@ toc: false
 ## Kontakt 
 **Ønsker du at tilmelde dig**, eller du har du spørgsmål til projektet eller undersøgelsen kan du kontakte projektansvarlig:
 
-**Julie Støy**
+::: {layout-ncol="2"}
+-   Julie Støy
+-   Overlæge
+-   Steno Diabetes Center Aarhus 
+-   📧 **julistoe@rm.dk**
 
-Overlæge, Projektansvarlig 
-
-Steno Diabetes Center Aarhus
-
-📧 julistoe@rm.dk
-
-☎️ skal der være et nummer? 
-
-::: text-center
-![Julie Støy](/images/julie_stoy_2.webp){fig-alt="Image of Julie Støy" .profile-picture}
+![](images/julie_stoy_2.webp){.profile-picture}
 :::
+
 
 ## 📂 Læs mere om forsøgsdagen i vedhæftede materialer 
 
