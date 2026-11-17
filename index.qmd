@@ -5,6 +5,6 @@ title: "Patientinformation"
 subtitle: "En hjemmeside med information til dig, der skal deltage i forskningsprojektet"
 ---
 
-![](/images/flyer1.png){fig-alt="flyer"}
+![](/images/flyer_github.png){fig-alt="flyer"}
 
 
