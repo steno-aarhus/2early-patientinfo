@@ -3,18 +3,30 @@ toc: false
 ---
 
 ## Kontakt 
-**Ønsker du at tilmelde dig**, eller du har du spørgsmål til projektet eller forsøgsdagen kan du kontakte projektansvarlig:
+**Ønsker du at tilmelde dig**, eller du har du spørgsmål til projektet eller forsøgsdagen kan du kontakte de projektansvarlige på denne mail: 📧 **2early.profile@auh.rm.dk**
+
 
 ::: {layout-ncol="2"}
 -   Julie Støy
 -   Overlæge
 -   Steno Diabetes Center Aarhus 
--   📧 **julistoe@rm.dk**
 
 ![](images/julie_stoy_2.webp){.profile-picture}
 :::
 
 
-### 📂 Læs mere om forsøgsdagen i vedhæftede materialer 
+::: {layout-ncol="2"}
+-   Bente Kjær
+-   Læge, Ph.d.
+-   Steno Diabetes Center Aarhus 
+
+![](images/bente.png){.profile-picture}
+:::
+
+
+
+## 📂 Materialer 
+
+Læs mere om forsøgsdagen i vedhæftede materialer 
 
 Her kan vi vedhæfte: *Appendix D : Deltagerinformation om deltagelse i et videnskabeligt projekt.*
