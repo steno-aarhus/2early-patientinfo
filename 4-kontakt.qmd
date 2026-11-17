@@ -3,7 +3,9 @@ toc: false
 ---
 
 ## Kontakt 
-**Ønsker du at tilmelde dig**, eller du har du spørgsmål til projektet eller forsøgsdagen kan du kontakte de projektansvarlige på denne mail: 📧 **2early.profile@auh.rm.dk**
+Ønsker du at tilmelde dig, eller du har du spørgsmål til projektet eller forsøgsdagen kan du kontakte de projektansvarlige på denne mail: 📧 **2early.profile@auh.rm.dk**
+
+
 
 
 ::: {layout-ncol="2"}
